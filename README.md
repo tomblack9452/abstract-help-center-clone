@@ -1,13 +1,7 @@
-# abstract-help-center-clone
+# Abstract Help Center Clone | Frontend Mentor
 
-A recreation of the Abstract help page
+https://abstract-help-center-clone.vercel.app/
 
-Hosted at: https://abstract-help-center-clone.vercel.app/
+Copy of: https://help.abstract.com/hc/en-us
 
-This is a clone of: https://help.abstract.com/hc/en-us
-
-This page is one of the first full page HTML/CSS files I've attempted. It isn't very responsive for mobile however it looks close to the original and is designed/spaced nicely imo.
-
-I want to come back to this page and fix it up for mobile/tablet users. Overall I'm quite proud of this as it feels like a good start and a step in the right direction finally.
-
--Tom Black
+<img src="https://i.ibb.co/pvMRFD4K/Screenshot-2025-10-02-at-16-01-25.png">
